@@ -1,6 +1,6 @@
 {
-  "homepage": "https://grapeman-jona.github.io/crypto-react-app",
-  "name": "react-crypto-app",
+  "homepage": "http://grapeman-jona.github.io/crypto-react-app",
+  "name": "crypto-react-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
